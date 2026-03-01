@@ -1,0 +1,9 @@
+segurando = false;    // Se o mouse está segurando ele AGORA
+ja_foi_tocado = false; // Controle para ativar a gravidade "pro resto da vida"
+v_velocidade = 0;
+h_velocidade = 0;
+giro = 0;
+gravidade = 0.5;
+offset_x = 0;
+offset_y = 0;
+dialogo = 0

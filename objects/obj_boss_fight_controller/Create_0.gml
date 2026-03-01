@@ -1,0 +1,2 @@
+
+global.estado = "boss"
